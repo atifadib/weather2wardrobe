@@ -1,3 +1,5 @@
+<b>Weather2Wardrobe</b>
+
 Personalizing your everyday experience with a weather forecasting Model.
 Weather2Wardrobe:
 1. Uses the input location and Yahoo weather API to capture historical and Current weather data for the user.
