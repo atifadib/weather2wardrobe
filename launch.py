@@ -26,7 +26,6 @@ def index():
     out=round((out1[0]+out2[0])/2)
     out=int(out)
     print(out)
-    out=randint(0,40)
     ico='http://l.yimg.com/a/i/us/we/52/'+str(out)+'.gif'
     data=conditions[out]
     print(data)
